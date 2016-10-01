@@ -18,16 +18,16 @@ Steps
 
 | **Legenda**                                                                                                                                           |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. **Nome Utente (Username)** — Il tuo nome su osu!. Scegli con cura! Potrai cambiare il tuo nickname soltanto **una volta** se hai il supporter tag. 
+| 1. **Nome Utente (Username)** — Il tuo nome su osu!. Scegli con cura! Potrai cambiare il tuo nickname soltanto **una volta** se hai il supporter tag. 
                                                                                                                                                         
                                                                                                                                                         
  a. Massimo 15 caratteri                                                                                                                                
                                                                                                                                                         
  b. Soltanto i caratteri alfanumerici («a-z, A-Z, 0-9»), sottolineature («\_»), parentesi quadre, («\[» and «\]») e trattini («-») sono permessi.       |
-| 2.*' Indirizzo E-mail (E-mail Address)*' — Verrà usato in caso ti dimentichi la password e altre cose. Non scordartelo!                               |
-| 3. **Password** — Scrivi una password che rimanga solo in tuo possesso e di nessun altro.                                                             |
-| 4. **Nota** — Un messaggio che ti ricorda di dover avere installato osu! sul tuo **PC** per finire la registrazione. *(Vedi <IT:Installation>)*       |
-| 5.**Continua** — Questo sarà cliccabile se tutti i campi saranno correttamente riempiti, cioè se ti appare «Looking good!» accanto ad ogni passaggio  |
+| 2.*' Indirizzo E-mail (E-mail Address)*' — Verrà usato in caso ti dimentichi la password e altre cose. Non scordartelo!                               |
+| 3. **Password** — Scrivi una password che rimanga solo in tuo possesso e di nessun altro.                                                             |
+| 4. **Nota** — Un messaggio che ti ricorda di dover avere installato osu! sul tuo **PC** per finire la registrazione. *(Vedi <IT:Installation>)*       |
+| 5.**Continua** — Questo sarà cliccabile se tutti i campi saranno correttamente riempiti, cioè se ti appare «Looking good!» accanto ad ogni passaggio  |
 
 <span style="font-size:18px">3. Effettua il login su osu! e sei a posto! </span>
 
@@ -37,12 +37,12 @@ Steps
 
 | **Legenda**                                                                                                                              |
 |------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. **Icona di osu!** — Esegui osu! cliccando due volte o facendo click destro e poi esegui.                                              
+| 1. **Icona di osu!** — Esegui osu! cliccando due volte o facendo click destro e poi esegui.                                              
                                                                                                                                            
                                                                                                                                            
  *Nota: Non è necessario eseguire osu! come amministratore. Apparirà un prompt se sarà necessario farlo.*                                  |
-| 2. **Pannello Utent** — Cliccalo per eseguire il log-in oppure il log-out.                                                               |
-| 3. **Finestra di accesso (Log-in)** — Immetti l'username e la password che hai utilizzato in precedenza per registrarti e premi Sign in. |
+| 2. **Pannello Utente** — Cliccalo per eseguire il log-in oppure il log-out.                                                               |
+| 3. **Finestra di accesso (Log-in)** — Immetti l'username e la password che hai utilizzato in precedenza per registrarti e premi Sign in. |
 
 </center>
 E ora?
@@ -52,4 +52,4 @@ Sei pronto per iniziare la tua avventura, quindi procedi alla pagina di [benvenu
 
 Se hai bisogno di assistenza nel gioco, puoi chiedere aiuto nel canale \#help scrivendo «/join \#help» e poi chiedi la tua domanda (preferibilmente in inglese).
 
-Il ritmo è ad un click dietro l'angolo, quindi divertiti!
+Nel dubbio, ricordati sempre che il ritmo è ad un click di distanza!
