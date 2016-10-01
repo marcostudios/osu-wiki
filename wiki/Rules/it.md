@@ -3,7 +3,7 @@ Regole Generali (Applicate in tutti i tipi di situazione):
 
 1. Ogni giocatore può avere solamente un account. Se verrà trovato un utente in possesso di più account, tutti gli account tranne il primo registrato saranno eliminati.
 
-2. Rispetta gli altri membri nella chat e nel forum. Se qualcuno ti avvisa di smetterla, smettila e basta. Il "trolling", definito in questo caso come l'antagonismo nei confronti degli altri giocatori con l'unico intento di far sentire l'altra persona colpevole di qualunque cosa, è inclusa in questa regola.
+2. Rispetta gli altri membri nella chat e nel forum. Se qualcuno ti consiglia di smetterla, smettila e basta. Il "trolling", definito in questo caso come l'antagonismo nei confronti degli altri giocatori con l'unico intento di far sentire l'altra persona colpevole di qualunque cosa, è inclusa in questa regola.
 
 3. Per la salvaguardia di tutti, ogni provvedimento è definito a discrezione degli admin o dello staff. Una regola ufficiale, tipo non essere un idiota, ha lo scopo preciso di fare in modo che chiunque non lo sia, per evitare cattive conseguenze.
 
@@ -20,11 +20,11 @@ Regole del Forum:
 
 3. Poiché questo forum è visitato da minori, non sono consentite discussioni o materiali che siano 18+. Tutti questi tipi di materiali/discussioni dovranno essere muniti della parola "NSFW" cioè "Not Safe For Work". Non linkare mai roba inappropriata solo per il gusto di farlo.
 
-4. Risparmia di attaccare le discussioni solo per scopi personali. Il forum è un luogo basato per discutere e conversare, non per dire cose di poca importanza od ingiuriose.
+4. Evita di attaccare le discussioni solo per scopi personali. Il forum è un luogo basato per discutere e conversare, non per dire cose di poca importanza od ingiuriose.
 
 5. Non riportare in evidenza le discussioni morte o dimenticate postando in esse, perchè questi post finiscono per essere considerati come "spam".
 
-6. Non linkare siti web con malware o altri tipi di virus, senza nessuna eccezione.
+6. Non linkare siti web con malware o altri tipi di virus, senza alcuna eccezione.
 
 7. Le immagini nella firma non devono superare i 256kb e non possono esserci immagini animate. Se volete usarne o volete riempire di roba la vostra firma, usate la vostra userpage nel profilo e linkatela dalla firma. Nel caso la vostra firma sia stata rimossa, quasi sicuramente è stato per questo motivo.
 
@@ -99,7 +99,9 @@ Come usare il !report:
 
 Il comando report serve a segnalare a tutti i moderatori nel gioco una anomalia (da voi specificata) in uno specifico canale (quello da cui fate il report).
 
-1.Il comando del report è strutturato in questa maniera: Quote: !report nomeutente causa
+1.Il comando del report è strutturato in questa maniera: 
+
+> !report nomeutente causa 
 
 nomeutente corrisponde al nickname di chi volete segnalare (NB: gli eventuali spazi nel nome devono essere \_, usate sempre l'autocompletamento per essere certi). causa corrisponde al motivo, potete inserire anche una frase con parole separate da spazi e deve essere in inglese, altrimenti i moderatori non italiani non capiranno. Basta anche una semplice parola come "insults" nel caso il reportato stia usando un linguaggio non adatto in chat.
 
