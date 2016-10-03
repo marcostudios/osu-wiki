@@ -1,23 +1,23 @@
-<img src="Options Base.jpg" title="Options menu (yes, that sidebar at left)" alt="Options menu (yes, that sidebar at left)" width="300" />
+<img src="Options Base.jpg" title="Menu delle Opzioni (si, quella barra laterale a sinistra)" alt="Menu delle Opzioni (si, la barra a sinistra)" width="300" />
 
-Options
+Opzioni
 =======
 
-`Restart osu! if anything isn't working as intended (Background Dim is a prime offender). `
+`Riavvia osu! se qualcosa non funziona come voluto (L'oscurità sfondo è un primo problema). `
 
-Click **Options** or press **O** in the Intro Screen to access the Options sidebar and change the way osu! behaves.
+Clicca **Opzioni** o premi **O** nella schermata di Introduzioni per accedere alla barra delle Opzioni e cambiare il modo di funzionare di osu!.
 
-Type on it to search what you want to change. The searchbar's text will *shake* if your search is invalid and refuse to add in that invalid letter.
+Scrivi per cercare cosa vuoi cambiare. Il testo nella barra di ricerca *tremerà* se la tua ricerca è invalida e si rifiuterà di aggiungere altre lettere.
 
-<u>**<Notes:->**</u>
-To find the build of your osu!, scroll down to the lowest part of the sidebar (or just click the Maintenance icon at the lower-left of sidebar). Clicking on it will direct you to the Release Notes by your preferred browser.
+<u>**<Note:->**</u>
+Per trovare la tua versione di osu!, scorri verso il basso della barra laterale (o clicca l'icona Manutenzione in basso a sinistra della barra laterale). Cliccandoci ti porterà alle Note di Rilascio nel tuo browser preferito.
 
--   b(YYYY)(MM)(DD).(revision) = Stable Build.
-    -   So, b20140323.3 means Stable Build as of 23rd of March 2014, third revision.
--   b(YYYY)(MM)(DD).(revision)(BuildType) = Test Build.
-    -   So, b20151113.8cuttingedge means Cutting Edge Build as of 13th of November 2015, eighth revision.
+-   b(AAAA)(MM)(GG).(revisione) = Versione Stabile.
+    -   Quindi, b20140323.3 significa che la versione Stabile è del 23 Marzo 2014, terza revisione.
+-   b(AAAA)(MM)(GG).(revisione)(Tipo di Versione) = Versione di Test.
+    -   Quindi, b20151113.8cuttingedge è la versione Avanzata del 13 Novembre 2015, ottava revisione.
 
-![](Options_General_thumb.jpg "fig:Options_General_thumb.jpg") General section
+![](Options_General_thumb.jpg "fig:Options_General_thumb.jpg") sezione Generale
 ------------------------------------------------------------------------------
 
 <img src="Options General.jpg" title="Comparison of the Guest and  General section" alt="Comparison of the Guest and  General section" width="300" />
